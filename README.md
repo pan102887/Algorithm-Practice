@@ -1,2 +1,3 @@
-# Algorithm-Practice
-the leetcode practice
+# rust practice
+
+the learning of rust
